@@ -1,0 +1,172 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.topo{
+    background-color: #604829;
+    width: 100%;
+    position: relative;
+    padding: 25px 0;
+    text-align: right;
+}
+
+.logo{
+    width: 60px;
+    position: absolute;
+    left: 30px;
+    top: 6px;
+}
+
+.link-top{
+    color:#c4a47c;
+    text-decoration: none;
+    font-family:'OSWALD',sans-serif;
+    padding: 0 20px;   
+    margin-right: 30px;
+    margin-top: 36px;
+    margin-left: 30px;
+    text-shadow: #000 4px 4px 4px;
+
+}
+
+.banner{
+    background-image: url(parallax-imagem1.png);
+    background-attachment: fixed;
+    text-align: center;
+    min-height: 750px;
+    padding-top: 250px;
+    background-size: cover;
+    padding-bottom: 100px;
+
+}
+
+h1{
+    text-align: center;
+    color: white;
+    margin: 190px 0;
+    font-size: 90px;
+    font-family: 'Fraunces',sans-serif;
+}
+
+.container-text{
+    text-align: center;
+    width: 1000px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 50px 0;
+}
+
+h2{
+    padding: 5px;
+    color: #c4a47c;
+    font-family: 'Oswald',sans-serif;
+}
+
+.paragrafo{
+    line-height: 27px;
+    font-family: 'lato',sans-serif;
+}
+
+.container-img{
+    background-image: url(parallax-imagem2.jpg);
+    background-attachment: fixed;
+    text-align: center;
+    min-height: 190px;
+    padding-top: 100px;
+    background-size: cover;
+    padding-bottom: 100px;
+}
+
+.container-img2{
+    background-image: url(parallax-imagem3.jpg);
+    background-attachment: fixed;
+    text-align: center;
+    min-height: 190px;
+    padding-top: 100px;
+    background-size: cover;
+    padding-bottom: 100px;
+}
+
+.paragrafo-paralax{
+    background-color: #604829;
+    color: #fff;
+    width: 300px;
+    padding: 10px 10px;
+    margin: 0 auto;
+    margin-top: 90px;
+}
+
+.contatos{
+    text-align: center;
+    background-image: url(parallax-imagem4.png);
+    padding: 50px 0;
+}
+
+.p_contatos{
+    background-color: #604829;
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 20px;
+    color: #fff;
+    padding: 10px 5px;
+    line-height: 25px;
+}
+
+.h2_contato{
+    background-color: #604829;
+    width: 500px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.horarios{
+    text-align: center;
+    background-image: url(cafeteria.jpg);
+    background-size: cover;
+    min-height: 250px;
+}
+
+.texto_horarios1, .nada, .texto_horarios2{
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.texto_horarios1, .texto_horarios2{
+    color: #fff;
+    width: 300px;
+
+}
+
+.nada{
+    width: 600px;
+}
+
+.linha{
+    background-color: #fff;
+    height: 1px;
+    margin-top: 38px;
+}
+
+.texto_horarios2{
+    line-height: 26px;
+}
+
+.rodape {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
+
+span{
+    color: #c4a47c;
+}
+
+.seta{
+    width: 200px;
+    height: 200px;
+    position: fixed;
+    right:50px;
+    top: 800px;
+}
